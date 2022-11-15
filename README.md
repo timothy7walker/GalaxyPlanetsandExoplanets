@@ -24,7 +24,7 @@
 
 Dictionary table of contents for PSCompPars_2022.11.03_17.07.58.csv and edited exoplanetArchive.csv file used in this project.
 
-![Alt text](https://file%2B.vscode-resource.vscode-cdn.net/c%3A/Users/Mx%20Digital%20Solutions/Desktop/Code%20Louisville/Python%20Data%20Analysis%20Course%202/GalaxyPlanetsandExoplanets/GalaxyPlanetsandExoplanets/System%20Composition%20Data%201.jpg?version%3D1668549581361)
+![Alt text]([https://file%2B.vscode-resource.vscode-cdn.net/c%3A/Users/Mx%20Digital%20Solutions/Desktop/Code%20Louisville/Python%20Data%20Analysis%20Course%202/GalaxyPlanetsandExoplanets/GalaxyPlanetsandExoplanets/System%20Composition%20Data%201.jpg?version%3D1668549581361](https://github.com/timothy7walker/GalaxyPlanetsandExoplanets/blob/main/System%20Composition%20Data.jpg))
 
 ![Alt text](https://file%2B.vscode-resource.vscode-cdn.net/c%3A/Users/Mx%20Digital%20Solutions/Desktop/Code%20Louisville/Python%20Data%20Analysis%20Course%202/GalaxyPlanetsandExoplanets/GalaxyPlanetsandExoplanets/System%20Composition%20Data%202.jpg?version%3D1668549613106)
 
