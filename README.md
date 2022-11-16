@@ -67,6 +67,8 @@ Google Collaborator does not require Anaconda application install.
 5. A Notebook file called GalaxyPlanetsandExoplanets.ipynb will run the project from a Google collaborate. The Notebook 
    file includes markup explaining each line of Python code. The Notebook fill will also install the main packages needed to run the project.
 
+This project was setup on Python 3.9.7
+
 Project file name: GalaxyPlanetsandExoplanets.ipynb
 Project web location link: https://github.com/timothy7walker/GalaxyPlanetsandExoplanets
 
