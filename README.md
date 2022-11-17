@@ -1,4 +1,4 @@
-[![Nebula Blue]({Nebula Blue - 49252.mp4})]({Nebula Blue - 49252.mp4} "Nebula Blue")
+![Milky Way](milky-way-galaxy.jpg)
 
 # GalaxyPlanetsandExoplanets
  Code Louisville Data 2 Final Project
