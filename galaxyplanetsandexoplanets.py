@@ -5,6 +5,8 @@
 
 ##Original file is located at https://colab.research.google.com/drive/1GobnSq65JimdJdXgThxnbwtaf3Zy49ak
 
+##pip install -r requirements.txt
+
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
