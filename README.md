@@ -28,11 +28,15 @@ COLUMN sy_disterr2:    Distance [pc] Lower Unc
 Dictionary table of contents for PSCompPars_2022.11.03_17.07.58.csv and edited exoplanetArchive.csv file used in this project.
 
 
-![Alt text](GalaxyPlanetsandExoplanets\System Composition Data.jpg)
-![Alt text](GalaxyPlanetsandExoplanets\System Composition Data 1.jpg)
-![Alt text](GalaxyPlanetsandExoplanets\System Composition Data 2.jpg)
-![Alt text](GalaxyPlanetsandExoplanets\System Composition Data 3.jpg)
-![Alt text](GalaxyPlanetsandExoplanets\System Composition Data 4.jpg)
+![Table 1](System Composition Data.jpg)
+
+![Table 2](System Composition Data 1.jpg)
+
+![Table 3](System Composition Data 2.jpg)
+
+![Table 4](System Composition Data 3.jpg)
+
+![Table 5](System Composition Data 4.jpg)
 
 Project Feature list:
 1. Two different csv datasets are read into the program.
